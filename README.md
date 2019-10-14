@@ -17,9 +17,20 @@ do-what-it-says | Read random.txt file and complete task in file.
 ### Early versions of the Liri proved problematic
 ![Early versions of the app proved problematic](assets/images/Terminator.gif)
 
+### concert-this
 ![concert-this](assets/images/concert.PNG)
+
+## spotify-this-song
 ![spotify-this-song](assets/images/spotify.PNG)
+
+## movie-this
 ![movie-this](assets/images/movie.PNG)
+
+## movie-this when left blank
 ![movie-this when left blank](assets/images/NOBODY.PNG)
-![do-what-it-says](do.PNG)
-![log.txt](log.PNG)
+
+## do-what-it-says
+![do-what-it-says](assets/images/do.PNG)
+
+## log file
+![log.txt](assets/images/log.PNG)
