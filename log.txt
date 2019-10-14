@@ -1,46 +1,4 @@
 
-<do-what-it-says>
-<spotify-this-song> <"I Want it That Way">
-Artist Name: Backstreet Boys
-Track Name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
-Album Name: The Hits--Chapter One
-<do-what-it-says>
-<spotify-this-song> <"I Want it That Way">
-Artist Name: Backstreet Boys
-Track Name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
-Album Name: The Hits--Chapter One
-<spotify-this-song> <I want it that>
-Artist Name: Backstreet Boys
-Track Name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
-Album Name: The Hits--Chapter One
-<movie-this> <Avengers>
-* Title: The Avengers
-* Year: 2012
-* Imdb Rating: 8.0
-* Rotten Tomatoes: 92%
-* Country: USA
-* Language: English, Russian, Hindi
-* Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
-* Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
-<concert-this> <Redman>
-Venue: Flagey
-Location: Ixelles,  Belgium
-Date and Time:01/10/20 09:00 PM
-<concert-this> <Maxo>
-<concert-this> <Maxo>
-<concert-this> <Ariana>
-<concert-this> <Ariana>
-<concert-this> <Redman>
-Venue: Flagey
-Location: Ixelles,  Belgium
-Date and Time:01/10/20 09:00 PM
-<concert-this> <Redman>
-Venue: Flagey
-Location: Ixelles,  Belgium
-Date and Time:01/10/20 09:00 PM
 <movie-this> <Mr.Nobody>
 * Title: Mr. Nobody
 * Year: 2009
@@ -50,3 +8,217 @@ Date and Time:01/10/20 09:00 PM
 * Language: English, Mohawk
 * Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 * Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+<concert-this> <wu-tang>
+Venue: Shelby Farms Park
+Location: Memphis, TN United States
+Date and Time:10/19/19 07:00 PM
+Venue: Mission Ballroom
+Location: Denver, CO United States
+Date and Time:10/29/19 08:00 PM
+Venue: Red Rocks Amphitheatre
+Location: Morrison, CO United States
+Date and Time:10/31/19 06:30 PM
+Venue: Anselmo Valencia Amphitheatre
+Location: Tucson, AZ United States
+Date and Time:11/02/19 08:00 PM
+<spotify-this-song> <Triumph>
+Artist Name: Wu-Tang Clan
+Track Name: Triumph (feat. Cappadonna)
+Preview Url: https://p.scdn.co/mp3-preview/e15cbaf09a5e8304e7e3f72d12fbeb14bf95f73c?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: Wu-Tang Forever
+<spotify-this-song> <Triumph>
+Artist Name: Wu-Tang Clan
+Track Name: Triumph (feat. Cappadonna)
+Preview Url: https://p.scdn.co/mp3-preview/e15cbaf09a5e8304e7e3f72d12fbeb14bf95f73c?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: Wu-Tang Forever
+<concert-this> <wu-tang>
+Venue: Shelby Farms Park
+Location: Memphis, TN United States
+Date and Time:10/19/19 07:00 PM
+Venue: Mission Ballroom
+Location: Denver, CO United States
+Date and Time:10/29/19 08:00 PM
+Venue: Red Rocks Amphitheatre
+Location: Morrison, CO United States
+Date and Time:10/31/19 06:30 PM
+Venue: Anselmo Valencia Amphitheatre
+Location: Tucson, AZ United States
+Date and Time:11/02/19 08:00 PM
+<spotify-this-song> <Triumph>
+Artist Name: Wu-Tang Clan
+Track Name: Triumph (feat. Cappadonna)
+Preview Url: https://p.scdn.co/mp3-preview/e15cbaf09a5e8304e7e3f72d12fbeb14bf95f73c?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: Wu-Tang Forever
+<movie-this> <Mr.Nobody>
+* Title: Mr. Nobody
+* Year: 2009
+* Imdb Rating: 7.8
+* Rotten Tomatoes: 67%
+* Country: Belgium, Germany, Canada, France, USA, UK
+* Language: English, Mohawk
+* Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+<movie-this> <GuardiansoftheGalaxytry>
+* Title: undefined
+* Year: undefined
+* Imdb Rating: undefined
+Rotten Tomatoes is not available
+* Country: undefined
+* Language: undefined
+* Plot: undefined
+* Actors: undefined
+<movie-this> <GuardiansoftheGalaxytry>
+* Title: undefined
+* Year: undefined
+* Imdb Rating: undefined
+*Rotten Tomatoes: N/A
+* Country: undefined
+* Language: undefined
+* Plot: undefined
+* Actors: undefined
+<movie-this> <GuardiansoftheGalaxytry>
+* Title: undefined
+* Year: undefined
+* Imdb Rating: undefined
+* Rotten Tomatoes: N/A
+* Country: undefined
+* Language: undefined
+* Plot: undefined
+* Actors: undefined
+<spotify-this-song> <Return+of+the+Mack>
+Artist Name: Mark Morrison
+Track Name: Return of the Mack
+Preview Url: https://p.scdn.co/mp3-preview/77bbf1e3bc27bfe6339579f71fc0b612391aa5e3?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: Return Of The Mack
+<spotify-this-song> <Return+of+the+Mack>
+Artist Name: Mark Morrison
+Track Name: Return of the Mack
+Preview Url: https://p.scdn.co/mp3-preview/77bbf1e3bc27bfe6339579f71fc0b612391aa5e3?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: Return Of The Mack
+<concert-this> <wu-tang>
+Venue: Shelby Farms Park
+Location: Memphis, TN United States
+Date and Time:10/19/19 07:00 PM
+Venue: Mission Ballroom
+Location: Denver, CO United States
+Date and Time:10/29/19 08:00 PM
+Venue: Red Rocks Amphitheatre
+Location: Morrison, CO United States
+Date and Time:10/31/19 06:30 PM
+Venue: Anselmo Valencia Amphitheatre
+Location: Tucson, AZ United States
+Date and Time:11/02/19 08:00 PM
+<spotify-this-song> <Return+of+the+Mack>
+Artist Name: Mark Morrison
+Track Name: Return of the Mack
+Preview Url: https://p.scdn.co/mp3-preview/77bbf1e3bc27bfe6339579f71fc0b612391aa5e3?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: Return Of The Mack
+<movie-this> <Mr.Nobody>
+* Title: Mr. Nobody
+* Year: 2009
+* Imdb Rating: 7.8
+* Rotten Tomatoes: 67%
+* Country: Belgium, Germany, Canada, France, USA, UK
+* Language: English, Mohawk
+* Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+<movie-this> <Guardians+of+the+Galaxy>
+* Title: Guardians of the Galaxy
+* Year: 2014
+* Imdb Rating: 8.1
+* Rotten Tomatoes: 91%
+* Country: USA
+* Language: English
+* Plot: A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.
+* Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<concert-this> <wu-tang>
+Venue: Shelby Farms Park
+Location: Memphis, TN United States
+Date and Time:10/19/19 07:00 PM
+Venue: Mission Ballroom
+Location: Denver, CO United States
+Date and Time:10/29/19 08:00 PM
+Venue: Red Rocks Amphitheatre
+Location: Morrison, CO United States
+Date and Time:10/31/19 06:30 PM
+Venue: Anselmo Valencia Amphitheatre
+Location: Tucson, AZ United States
+Date and Time:11/02/19 08:00 PM
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<concert-this> <wu-tang>
+Venue: Shelby Farms Park
+Location: Memphis, TN United States
+Date and Time:10/19/19 07:00 PM
+Venue: Mission Ballroom
+Location: Denver, CO United States
+Date and Time:10/29/19 08:00 PM
+Venue: Red Rocks Amphitheatre
+Location: Morrison, CO United States
+Date and Time:10/31/19 06:30 PM
+Venue: Anselmo Valencia Amphitheatre
+Location: Tucson, AZ United States
+Date and Time:11/02/19 08:00 PM
+<spotify-this-song> <Return+of+the+Mack>
+Artist Name: Mark Morrison
+Track Name: Return of the Mack
+Preview Url: https://p.scdn.co/mp3-preview/77bbf1e3bc27bfe6339579f71fc0b612391aa5e3?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: Return Of The Mack
+<movie-this> <Guardians+of+the+Galaxy>
+* Title: Guardians of the Galaxy
+* Year: 2014
+* Imdb Rating: 8.1
+* Rotten Tomatoes: 91%
+* Country: USA
+* Language: English
+* Plot: A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.
+* Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+<movie-this> <Mr.Nobody>
+* Title: Mr. Nobody
+* Year: 2009
+* Imdb Rating: 7.8
+* Rotten Tomatoes: 67%
+* Country: Belgium, Germany, Canada, France, USA, UK
+* Language: English, Mohawk
+* Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One

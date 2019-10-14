@@ -10,6 +10,8 @@ var axios = require('axios')
 var fs = require('fs')
 // file to keep api keys secret
 var keys = require('./keys.js')
+// gradient string package
+const gradient = require('gradient-string')
 // Spotify package
 var Spotify = require('node-spotify-api')
 // moment package
@@ -67,9 +69,9 @@ function concert (artist) {
       for (var i = 0; i < response.data.length; i++) {
         var venueName = '\nVenue: ' + response.data[i].venue.name
         var where = '\nLocation: ' + response.data[i].venue.city + ', ' + response.data[i].venue.region + ' ' + response.data[i].venue.country
-        var venueDate = '\nDate and Time:' + moment(response.data[i].datetime).format('MM/DD/YY hh:mm A')     
+        var venueDate = '\nDate and Time:' + moment(response.data[i].datetime).format('MM/DD/YY hh:mm A')
         var logged = venueName + where + venueDate
-        console.log(logged)
+        console.log(gradient.summer.multiline(logged))
         list += logged
       }
       // log data to log.txt file
@@ -95,19 +97,25 @@ function concert (artist) {
 /* eslint-enable no-unused-vars */
 // spotify function
 function spotifySucks (data1) {
-  spotify.search({ type: 'track', query: data1 }, function (err, response) {
+  spotify.search({ type: 'track', query: data1, limit: 1 }, function (err, response) {
     if (err) {
       console.log('Error occurred: ' + err)
       return
     }
+    // console.log(JSON.parse(JSON.stringify(response), null, 2))
     var list = '<spotify-this-song> <' + data1 + '>'
     var info = response.tracks.items[0]
-    var artistName = '\nArtist Name: ' + info.artists[0].name
+    var artistName = ''
+    try {
+      artistName = '\nArtist Name: ' + info.artists[0].name
+    } catch (Exception) {
+      artistName = '\nArtist Name: ' + info.artists[0].external_urls.name
+    }
     var trackName = '\nTrack Name: ' + info.name
     var preview = '\nPreview Url: ' + info.preview_url
     var albumName = '\nAlbum Name: ' + info.album.name
     list += artistName + trackName + preview + albumName
-    console.log(list)
+    console.log(gradient.summer(list))
     logger(list)
   })
 }
@@ -120,13 +128,18 @@ function netflix (movie) {
       var title = '\n* Title: ' + response.data.Title
       var year = '\n* Year: ' + response.data.Year
       var imdb = '\n* Imdb Rating: ' + response.data.imdbRating
-      var rotten = '\n* Rotten Tomatoes: ' + response.data.Ratings[1].Value
+      var rotten = ''
+      try {
+        rotten = '\n* Rotten Tomatoes: ' + response.data.Ratings[1].Value
+      } catch (Exception) {
+        rotten = '\n* Rotten Tomatoes: N/A'
+      }
       var country = '\n* Country: ' + response.data.Country
       var lang = '\n* Language: ' + response.data.Language
       var plot = '\n* Plot: ' + response.data.Plot
       var actor = '\n* Actors: ' + response.data.Actors
       list += title + year + imdb + rotten + country + lang + plot + actor
-      console.log(list)
+      console.log(gradient.summer(list))
       logger(list)
     }), function (error) {
     if (error.response) {
@@ -157,12 +170,10 @@ function jarvis () {
     if (error) {
       return console.log(error)
     }
-    // We will then print the contents of data
-    console.log(data)
     // Then split it by commas (to make it more readable)
     var dataArr = data.split(',')
     // We will then re-display the content as an array for later use.
-    console.log(dataArr)
+    console.log(gradient.summer(dataArr))
     ask(dataArr[0], dataArr[1])
   })
 }
@@ -173,7 +184,7 @@ function logger (data) {
     if (error) {
       console.log('error')
     } else {
-      console.log('data logged')
+      console.log(gradient.morning('data logged\n'))
     }
   })
 }
@@ -181,7 +192,7 @@ function logger (data) {
 // function to handle names or titles longer than one word
 function Start () {
   if (inputString.length > 4) {
-    argument = inputString.slice(3, inputString.length - 1).join('')
+    argument = inputString.slice(3, inputString.length).join('+')
   }
   ask(command, argument)
 }
