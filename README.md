@@ -8,7 +8,7 @@ Commands | Description
 ---------| -----------
 concert-this | Source Bands In Town API for event dates.
 spotify-this-song | Source Spotify for information about a specific song.
-movie-this | Source Omdb API for information about a certain movie. Leave blank for Mr. Nobody.
+movie-this | Source Omdb API for information about a certain movie. Leave blank for ***Mr. Nobody***.
 do-what-it-says | Read random.txt file and complete task in file.
 
 ## All data is logged in log.txt
@@ -16,21 +16,22 @@ do-what-it-says | Read random.txt file and complete task in file.
 ## Demo Pics
 ### Early versions of the Liri proved problematic
 ![Early versions of the app proved problematic](assets/images/Terminator.gif)
+![Early versions of the app proved problematic](assets/images/T2.gif)
 
-### concert-this
+### concert-this Wu-Tang
 ![concert-this](assets/images/concert.PNG)
 
-## spotify-this-song
+### spotify-this-song ***Triumph***
 ![spotify-this-song](assets/images/spotify.PNG)
 
-## movie-this
+### movie-this ***Guardians of the Galaxy***
 ![movie-this](assets/images/movie.PNG)
 
-## movie-this when left blank
+### movie-this when left blank - ***Mr. Nobody***
 ![movie-this when left blank](assets/images/Nobody.PNG)
 
-## do-what-it-says
+### do-what-it-says
 ![do-what-it-says](assets/images/do.PNG)
 
-## log file
+### log file
 ![log.txt](assets/images/log.PNG)
