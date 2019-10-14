@@ -15,12 +15,12 @@
     - Chalk
     - ESlint Syntax
 
-Commands | Description
----------| -----------
-concert-this | Source Bands In Town API for event dates.
-spotify-this-song | Source Spotify for information about a specific song.
-movie-this | Source Omdb API for information about a certain movie. Leave blank for ***Mr. Nobody***.
-do-what-it-says | Read random.txt file and complete task in file.
+| Commands | Description |
+|   :--:   |    :--:     |
+| concert-this | Source Bands In Town API for event dates. |
+| spotify-this-song | Source Spotify for information about a specific song. |
+| movie-this | Source Omdb API for information about a certain movie. Leave blank for ***Mr. Nobody***. |
+| do-what-it-says | Read random.txt file and complete task in file. |
 
 ## All data is logged in log.txt
 
@@ -32,6 +32,8 @@ do-what-it-says | Read random.txt file and complete task in file.
 ### But eventually proved to be problematic
 ![Early versions of the app proved problematic](assets/images/Terminator1.gif)
 ![Early versions of the app proved problematic](assets/images/T2.gif)
+
+## Final Version
 
 ### concert-this Wu-Tang
 ![concert-this](assets/images/concert.PNG)
