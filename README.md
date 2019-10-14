@@ -15,7 +15,7 @@ do-what-it-says | Read random.txt file and complete task in file.
 
 ## Demo Pics
 ### Early versions of the Liri proved problematic
-![Early versions of the app proved problematic](assets/images/Terminator.gif)
+![Early versions of the app proved problematic](assets/images/Terminator1.gif)
 ![Early versions of the app proved problematic](assets/images/T2.gif)
 
 ### concert-this Wu-Tang
