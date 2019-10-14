@@ -25,7 +25,11 @@ do-what-it-says | Read random.txt file and complete task in file.
 ## All data is logged in log.txt
 
 ## Demo Pics
-### Early versions of the Liri proved problematic
+
+### Early versions of the app were very promising
+![Early versions of the app were very promising](assets/images/Robo.gif)
+
+### But eventually proved to be problematic
 ![Early versions of the app proved problematic](assets/images/Terminator1.gif)
 ![Early versions of the app proved problematic](assets/images/T2.gif)
 
