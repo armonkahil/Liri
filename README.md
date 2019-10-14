@@ -27,7 +27,7 @@ do-what-it-says | Read random.txt file and complete task in file.
 ![movie-this](assets/images/movie.PNG)
 
 ## movie-this when left blank
-![movie-this when left blank](assets/images/NOBODY.PNG)
+![movie-this when left blank](assets/images/Nobody.PNG)
 
 ## do-what-it-says
 ![do-what-it-says](assets/images/do.PNG)
