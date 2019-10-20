@@ -66,13 +66,19 @@ function concert (artist) {
     function (response) {
       // var to store formatted info for log file
       var list = '<concert-this> <' + artist + '>'
-      for (var i = 0; i < response.data.length; i++) {
-        var venueName = '\nVenue: ' + response.data[i].venue.name
-        var where = '\nLocation: ' + response.data[i].venue.city + ', ' + response.data[i].venue.region + ' ' + response.data[i].venue.country
-        var venueDate = '\nDate and Time:' + moment(response.data[i].datetime).format('MM/DD/YY hh:mm A')
-        var logged = venueName + where + venueDate
-        console.log(gradient.summer.multiline(logged))
-        list += logged
+      // if there are no dates
+      if (response.data.length <= 0) {
+        list += '\nNo dates found'
+        console.log(gradient.summer(list))
+      } else {
+        for (var i = 0; i < response.data.length; i++) {
+          var venueName = '\nVenue: ' + response.data[i].venue.name
+          var where = '\nLocation: ' + response.data[i].venue.city + ', ' + response.data[i].venue.region + ' ' + response.data[i].venue.country
+          var venueDate = '\nDate and Time:' + moment(response.data[i].datetime).format('MM/DD/YY hh:mm A')
+          var logged = venueName + where + venueDate
+          console.log(gradient.summer.multiline(logged))
+          list += logged
+        }
       }
       // log data to log.txt file
       logger(list)
@@ -102,7 +108,7 @@ function spotifySucks (data1) {
       console.log('Error occurred: ' + err)
       return
     }
-    // console.log(JSON.parse(JSON.stringify(response), null, 2))
+    console.log(JSON.parse(JSON.stringify(response), null, 2))
     var list = '<spotify-this-song> <' + data1 + '>'
     var info = response.tracks.items[0]
     var artistName = ''
