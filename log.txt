@@ -257,3 +257,100 @@ Location: Ixelles,  Belgium
 Date and Time:01/10/20 09:00 PM
 <concert-this> <Matana+Roberts>
 No dates found
+<concert-this> <Kanye+West>
+No dates found
+<concert-this> <Pastor+Troy>
+No dates found
+<concert-this> <Gucci+Mane>
+Venue: Gas Monkey Live!
+Location: Dallas, TX United States
+Date and Time:11/09/19 03:00 PM
+Venue: Fox Theatre Detroit
+Location: Detroit, MI United States
+Date and Time:11/16/19 08:00 PM
+<concert-this> <Dababy>
+Venue: Myth Live
+Location: Minneapolis, MN United States
+Date and Time:11/16/19 08:00 PM
+Venue: The Rave / Eagles Club
+Location: Milwaukee, WI United States
+Date and Time:11/17/19 08:00 PM
+Venue: Mission Ballroom
+Location: Denver, CO United States
+Date and Time:11/21/19 08:00 PM
+Venue: Mesa Amphitheatre
+Location: Mesa, AZ United States
+Date and Time:11/24/19 07:30 PM
+Venue: Coca-Cola Roxy
+Location: Atlanta, GA United States
+Date and Time:12/01/19 08:00 PM
+Venue: WVU Coliseum
+Location: Morgantown, WV United States
+Date and Time:12/06/19 08:30 PM
+Venue: Echostage
+Location: Washington, DC United States
+Date and Time:12/07/19 09:00 PM
+Venue: Rebel
+Location: Toronto,  Canada
+Date and Time:12/10/19 08:00 PM
+Venue: Royal Oak Music Theatre
+Location: Royal Oak, MI United States
+Date and Time:12/11/19 07:00 PM
+Venue: Pacific Coliseum
+Location: Vancouver,  Canada
+Date and Time:12/13/19 07:00 PM
+Venue: Shrine Expo Hall
+Location: Los Angeles, CA United States
+Date and Time:12/18/19 08:00 PM
+Venue: The Warfield
+Location: San Francisco, CA United States
+Date and Time:12/19/19 08:00 PM
+Venue: South Side Ballroom
+Location: Dallas, TX United States
+Date and Time:12/21/19 08:00 PM
+<spotify-this-song> <selah>
+Artist Name: Kanye West
+Track Name: Selah
+Preview Url: null
+Album Name: JESUS IS KING
+<spotify-this-song> <selah>
+Artist Name: Kanye West
+Track Name: Selah
+Preview Url: null
+Album Name: JESUS IS KING
+<movie-this> <Dolemite+is+my+Name>
+* Title: Dolemite Is My Name
+* Year: 2019
+* Imdb Rating: 6.5
+* Rotten Tomatoes: 97%
+* Country: USA
+* Language: English
+* Plot: Eddie Murphy portrays real-life legend Rudy Ray Moore, a comedy and rap pioneer who proved naysayers wrong when his hilarious, obscene, kung-fu fighting alter ego, Dolemite, became a 1970s Blaxploitation phenomenon.
+* Actors: Eddie Murphy, Kodi Smit-McPhee, Wesley Snipes, Keegan-Michael Key
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<do-what-it-says>
+
+<spotify-this-song> <"I Want it That Way">
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One
+<do-what-it-says>
+<spotify-this-song> <"I Want it That Way">
+
+Artist Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
+Album Name: The Hits--Chapter One

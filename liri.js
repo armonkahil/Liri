@@ -108,8 +108,7 @@ function spotifySucks (data1) {
       console.log('Error occurred: ' + err)
       return
     }
-    console.log(JSON.parse(JSON.stringify(response), null, 2))
-    var list = '<spotify-this-song> <' + data1 + '>'
+    var list = '<spotify-this-song> <' + data1 + '>\n'
     var info = response.tracks.items[0]
     var artistName = ''
     try {
@@ -190,7 +189,7 @@ function logger (data) {
     if (error) {
       console.log('error')
     } else {
-      console.log(gradient.morning('data logged\n'))
+      console.log(gradient.morning('\ndata logged\n'))
     }
   })
 }
