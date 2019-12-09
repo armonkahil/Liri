@@ -1,8 +1,8 @@
 # Liri
 
-### Node.js Homework
+## A Node.js Homework
 
-### In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+### Liri is like iPhone's Siri. However, while Siri is a Speech Interpretation and Recognition Interface, Liri is a Language Interpretation and Recognition Interface. Liri is a command line node app that takes in parameters and gives you back data.
 
 ## Technologies Used
     - Node.js
