@@ -354,3 +354,13 @@ Artist Name: Backstreet Boys
 Track Name: I Want It That Way
 Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc3267a3a534b41abae333df28f5f8d
 Album Name: The Hits--Chapter One
+<concert-this> <redman>
+Venue: The Ave Live
+Location: Philadelphia, PA United States
+Date and Time:12/14/19 09:00 PM
+Venue: Flagey
+Location: Ixelles,  Belgium
+Date and Time:01/10/20 09:00 PM
+Venue: Red Rocks Amphitheatre
+Location: Morrison, CO United States
+Date and Time:04/20/20 05:00 PM

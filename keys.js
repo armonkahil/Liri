@@ -1,6 +1,6 @@
 // gradient string package
 const gradient = require('gradient-string')
-console.log(gradient.summer('this is loaded'))
+console.log(gradient.vice('\nthis is loaded\n'))
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,

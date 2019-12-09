@@ -196,6 +196,7 @@ function logger (data) {
 
 // function to handle names or titles longer than one word
 function Start () {
+  console.log(gradient.summer('Welcome to Liri\n\nList of Commands: "node liri" +\n\n- concert-this "band/artist name"\n- spotify-this-song "song name"\n- movie-this "movie title"\n- do-what-it-says'));
   if (inputString.length > 4) {
     argument = inputString.slice(3, inputString.length).join('+')
   }
