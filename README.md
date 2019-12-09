@@ -2,7 +2,7 @@
 
 ## A Node.js Homework
 
-### Liri is like iPhone's Siri. However, while Siri is a Speech Interpretation and Recognition Interface, Liri is a Language Interpretation and Recognition Interface. Liri is a command line node app that takes in parameters and gives you back data.
+ Liri is a command line node app that takes in parameters and gives you back data. Like Apple's Siri application, a **S**peech **I**nterpretation and **R**ecognition **I**nterface, Liri is a **L**anguage **I**nterpretation and **R**ecognition **I**nterface. 
 
 ## Technologies Used
     - Node.js
